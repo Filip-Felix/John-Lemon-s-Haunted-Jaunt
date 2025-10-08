@@ -19,7 +19,7 @@ Proiectul este un exemplu excelent de inițiere în game design, logică de game
 
 ## 🕹️ Captură din joc
 
-![John Lemon’s Haunted Jaunt](screenshot.png)
+![John Lemon’s Haunted Jaunt](Image.png)
 
 *(Captură realizată în timpul rulării proiectului în Unity)*
 
