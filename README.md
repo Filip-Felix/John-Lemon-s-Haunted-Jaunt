@@ -29,7 +29,7 @@ Proiectul este un exemplu excelent de inițiere în game design, logică de game
 
 1. Clonează repository-ul:
    ```bash
-   git clone https://github.com/<username>/unity-john-lemon.git
+   git clone https://github.com/Filip-Felix/John-Lemon-s-Haunted-Jaunt
 2. Deschide proiectul în Unity Hub
 
 3. Rulează scena principală MainScene (sau JohnLemonScene)
